@@ -1,2 +1,3 @@
 # OpenCV-img-classification
-image classification of top 5 players in the Ballon d'or voting list
+This is a end to end project where you can upload a image of one of the top 5 Ballon d'or nominees in the year 2022  to a website and the website tells you who the player is.
+This program uses Haar cascade method of dectecion using openCV.
